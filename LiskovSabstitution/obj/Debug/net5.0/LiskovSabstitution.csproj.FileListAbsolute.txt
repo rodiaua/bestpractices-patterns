@@ -1,0 +1,16 @@
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\LiskovSabstitution\bin\Debug\net5.0\LiskovSabstitution.exe
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\LiskovSabstitution\bin\Debug\net5.0\LiskovSabstitution.deps.json
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\LiskovSabstitution\bin\Debug\net5.0\LiskovSabstitution.runtimeconfig.json
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\LiskovSabstitution\bin\Debug\net5.0\LiskovSabstitution.runtimeconfig.dev.json
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\LiskovSabstitution\bin\Debug\net5.0\LiskovSabstitution.dll
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\LiskovSabstitution\bin\Debug\net5.0\ref\LiskovSabstitution.dll
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\LiskovSabstitution\bin\Debug\net5.0\LiskovSabstitution.pdb
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\LiskovSabstitution\obj\Debug\net5.0\LiskovSabstitution.csprojAssemblyReference.cache
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\LiskovSabstitution\obj\Debug\net5.0\LiskovSabstitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\LiskovSabstitution\obj\Debug\net5.0\LiskovSabstitution.AssemblyInfoInputs.cache
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\LiskovSabstitution\obj\Debug\net5.0\LiskovSabstitution.AssemblyInfo.cs
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\LiskovSabstitution\obj\Debug\net5.0\LiskovSabstitution.csproj.CoreCompileInputs.cache
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\LiskovSabstitution\obj\Debug\net5.0\LiskovSabstitution.dll
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\LiskovSabstitution\obj\Debug\net5.0\ref\LiskovSabstitution.dll
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\LiskovSabstitution\obj\Debug\net5.0\LiskovSabstitution.pdb
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\LiskovSabstitution\obj\Debug\net5.0\LiskovSabstitution.genruntimeconfig.cache

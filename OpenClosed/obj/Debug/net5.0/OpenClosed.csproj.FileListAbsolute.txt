@@ -1,0 +1,16 @@
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\OpenClosed\bin\Debug\net5.0\OpenClosed.exe
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\OpenClosed\bin\Debug\net5.0\OpenClosed.deps.json
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\OpenClosed\bin\Debug\net5.0\OpenClosed.runtimeconfig.json
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\OpenClosed\bin\Debug\net5.0\OpenClosed.runtimeconfig.dev.json
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\OpenClosed\bin\Debug\net5.0\OpenClosed.dll
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\OpenClosed\bin\Debug\net5.0\ref\OpenClosed.dll
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\OpenClosed\bin\Debug\net5.0\OpenClosed.pdb
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\OpenClosed\obj\Debug\net5.0\OpenClosed.csprojAssemblyReference.cache
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\OpenClosed\obj\Debug\net5.0\OpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\OpenClosed\obj\Debug\net5.0\OpenClosed.AssemblyInfoInputs.cache
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\OpenClosed\obj\Debug\net5.0\OpenClosed.AssemblyInfo.cs
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\OpenClosed\obj\Debug\net5.0\OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\OpenClosed\obj\Debug\net5.0\OpenClosed.dll
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\OpenClosed\obj\Debug\net5.0\ref\OpenClosed.dll
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\OpenClosed\obj\Debug\net5.0\OpenClosed.pdb
+C:\Users\rodia\source\repos\LEARNING\BestPracticesAndPatterns\OpenClosed\obj\Debug\net5.0\OpenClosed.genruntimeconfig.cache
