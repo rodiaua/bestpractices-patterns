@@ -7,11 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{13D068E6
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibility", "SOLID\SingleResponsibility\SingleResponsibility.csproj", "{56B2DAE1-868F-4A42-90EF-37A8992B47DB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosed", "OpenClosed\OpenClosed.csproj", "{5EC0E4C0-54BE-4E1A-80CA-8242C131D52D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosed", "SOLID\OpenClosed\OpenClosed.csproj", "{5EC0E4C0-54BE-4E1A-80CA-8242C131D52D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSabstitution", "LiskovSabstitution\LiskovSabstitution.csproj", "{8C916AEC-7F5E-4F29-8BBF-461152B78119}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSabstitution", "SOLID\LiskovSabstitution\LiskovSabstitution.csproj", "{8C916AEC-7F5E-4F29-8BBF-461152B78119}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregation", "InterfaceSegregation\InterfaceSegregation.csproj", "{6538ECF3-544C-4E5A-9FAA-AB3EC6A44214}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregation", "SOLID\InterfaceSegregation\InterfaceSegregation.csproj", "{6538ECF3-544C-4E5A-9FAA-AB3EC6A44214}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

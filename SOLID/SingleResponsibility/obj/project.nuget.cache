@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yuNJL2P14LYdsiB49KA8uXW8BJd1SryeUH0OjdqiigUJtRWNqHgGTwFMaJxqcuET+lqr6Lnx0cfUN48ww/hr6Q==",
+  "dgSpecHash": "BMwo9uoGaD/oAx1R9m2/uPUNPnRPi3vwSE1j4g39NzoP1pUJ5aA3ly8lzUpUnoqPRLg77wJMPnm7QBWW9JKa9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rodia\\source\\repos\\LEARNING\\BestPracticesAndPatterns\\SOLID\\SingleResponsibility\\SingleResponsibility.csproj",
+  "projectFilePath": "D:\\Projects\\bestpractices-patterns\\SOLID\\SingleResponsibility\\SingleResponsibility.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
